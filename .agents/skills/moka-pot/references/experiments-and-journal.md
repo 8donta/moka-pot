@@ -2,7 +2,9 @@
 
 ## Intake and measurements
 
-Collect the setup described in SKILL.md in small batches. Offer an initial prompt such as: "Which pot/model and cup size do you have, what roast are you using, and which exact grinder? Do you have a scale, timer, and thermometer? For this session, would you like a local brew journal or chat-only tracking?" Adapt to what is already known rather than repeating this verbatim.
+Collect the setup described in SKILL.md in small batches. Include the stove in the opening questions, for example: "Which pot/model and cup size do you have? What stove or heat source do you use: gas, electric coil, ceramic/radiant glass, induction, or the pot's own electric base? What roast and exact grinder are you using, and do you have a scale, timer, and thermometer?" Ask whether to use a local brew journal or chat-only tracking during the same setup exchange. Adapt to what is already known rather than repeating this verbatim.
+
+Follow up on the stove's burner size, power controls or numbered settings, and any adapter plate before suggesting a heat schedule. An induction-compatible pot does not establish that the user has an induction stove. If the heat source is unknown, continue other intake but defer heat-specific recommendations until it is identified.
 
 Unknown capacity: inspect the marking/manual and measure water and coffee independently. If the model is uncertain, do not infer its valve, fill limit, or heat compatibility. Missing measurement tools: prepare the profile and explain general technique, but defer controlled comparisons. A timer can be a phone; temperature measurement must not involve opening a pressurized pot.
 
