@@ -1,0 +1,6 @@
+interface:
+  display_name: "Moka Pot"
+  short_description: "Find your preferred moka brew one variable at a time"
+  default_prompt: "Use $moka-pot to establish my baseline and improve my coffee one variable at a time."
+policy:
+  allow_implicit_invocation: true
