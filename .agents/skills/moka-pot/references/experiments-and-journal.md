@@ -6,7 +6,9 @@ Collect the setup described in SKILL.md in small batches. Include the stove in t
 
 Follow up on the stove's burner size, power controls or numbered settings, and any adapter plate before suggesting a heat schedule. An induction-compatible pot does not establish that the user has an induction stove. If the heat source is unknown, continue other intake but defer heat-specific recommendations until it is identified.
 
-Unknown capacity: inspect the marking/manual and measure water and coffee independently. If the model is uncertain, do not infer its valve, fill limit, or heat compatibility. Missing measurement tools: prepare the profile and explain general technique, but defer controlled comparisons. A timer can be a phone; temperature measurement must not involve opening a pressurized pot.
+For a brand-only answer of **Bialetti**, use the working default **aluminum Moka Express** without another model/material question. State the assumption briefly, mark it as assumed in the profile, and ask only for remaining unknowns such as cup size and stove. Explicit model/material information or a photo overrides this default. For example, "Bialetti, 3 cup" establishes an assumed aluminum Moka Express and a stated 3-cup size; "Bialetti Venus, 4 cup" must retain the named Venus model instead.
+
+Unknown capacity: inspect the marking/manual and measure water and coffee independently. For models still unidentified after applying the Bialetti default where appropriate, do not infer valve design, fill limit, or heat compatibility. Missing measurement tools: prepare the profile and explain general technique, but defer controlled comparisons. A timer can be a phone; temperature measurement must not involve opening a pressurized pot.
 
 Use grams, degrees C, and seconds internally; accept and convert other units while retaining the user's original reading. Do not invent precision beyond the scale, thermometer, or grinder. A protective trivet can be tared with a cup to weigh the decanted beverage. Use equipment rated for the temperature and measure promptly and consistently.
 
